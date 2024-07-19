@@ -128,7 +128,7 @@ namespace ManoPrograma
             //    Console.WriteLine("Suma neatitinka jokio masyvo elemento");
             //}
 
-            // 13 uzduotis******************************************************** PAKLAUST CIA
+            // 13 uzduotis******************************************************** 
 
             //int[] arrayIntu = { 1, 5, 6, 8, 9, 10 };
 
